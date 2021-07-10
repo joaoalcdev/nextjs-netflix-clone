@@ -1,6 +1,6 @@
 # See Application ⤵️
 
-<!-- # [DEMO](https://nextjs-netflix-clone-joao-alc.vercel.app/) -->
+# [DEMO](https://nextjs-netflix-clone-joao-alc.vercel.app/)
 
 
 # Next.js + Tailwind CSS Example
